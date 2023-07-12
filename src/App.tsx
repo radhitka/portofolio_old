@@ -9,6 +9,7 @@ function App() {
         <p>
          Testing saja by Raditor.
         </p>
+        <b>Bikin kaget saja tidak bisa diupload di github hehe.</b>
       </header>
     </div>
   );
